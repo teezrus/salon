@@ -1,0 +1,21 @@
+%quik-500 {
+   font-family: "Quicksand-Medium", sans-serif;
+   font-weight: 500;
+}
+
+%quik-400 {
+   font-family: "Quicksand-Regular", sans-serif;
+   font-weight: 400;
+}
+
+$accent: #9ec0cf;
+$default: #8d8d8d;
+$title: #29282d;
+$bg: #f6f6f6;
+
+%padding {
+   padding: 0 calc(50% - 700px);
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin: 0 5px;
+}
